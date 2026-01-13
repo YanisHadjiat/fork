@@ -12,12 +12,13 @@
 Que voyez-vous quand vous exécutez `git remote -v` ?
 
 **Votre réponse :**
-
+En faisant git remote -v, on voit que origin pointe vers l'URL du dépôt original 
 
 ### Question 1.2
 Que se passe-t-il quand vous essayez de pousser ? Pourquoi ?
 
 **Votre réponse :**
+ Le push a échoué car on peux pas push d’un clone à un repos distant upstream 
 
 
 ---
@@ -29,11 +30,13 @@ Quelle différence voyez-vous dans les remotes par rapport à l'exercice 1 ?
 
 **Votre réponse :**
 
+Cette fois, origin pointe vers mon dépôt forker 
 
 ### Question 2.2
 Que se passe-t-il quand vous poussez cette fois ? Pourquoi ?
 
 **Votre réponse :**
+Le push fonctionne car je suis prioritaire du dépôt 
 
 
 ---
